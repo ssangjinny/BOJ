@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f54e1fd7-f62f-40ba-b057-63d12ab0f49d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ_1085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_1157.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_1110.cpp" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
