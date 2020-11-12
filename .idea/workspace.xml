@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f54e1fd7-f62f-40ba-b057-63d12ab0f49d" name="Default Changelist" comment="" />
+    <list default="true" id="f54e1fd7-f62f-40ba-b057-63d12ab0f49d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BOJ_1018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_1181.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,20 +58,20 @@
       <recent name="E:\Github\BOJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BOJ_1085 (1)">
-    <configuration name="BOJ_1076" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BOJ" />
+  <component name="RunManager" selected="Python.BOJ_1181">
+    <configuration name="BOJ_1018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\PC\AppData\Local\Programs\Python\Python38\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_1076.py" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_1018.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,12 +143,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="BOJ_1181" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\PC\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_1181.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_1181" />
+        <item itemvalue="Python.BOJ_1018" />
         <item itemvalue="Python.BOJ_1085 (1)" />
         <item itemvalue="Python.BOJ_1085" />
         <item itemvalue="Python.BOJ_1152" />
-        <item itemvalue="Python.BOJ_1076" />
       </list>
     </recent_temporary>
   </component>
@@ -172,33 +198,43 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1604651541782">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2014" y="167" width="1092" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605164924552">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2014" y="167" width="1092" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1605164924551" />
+    <state x="2413" y="257" key="FileChooserDialogImpl" timestamp="1605166662175">
+      <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1604651541782" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1604669331783">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2413" y="257" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1605166662175" />
+    <state width="1259" height="276" key="GridCell.Tab.0.bottom" timestamp="1605166688544">
+      <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1604656456588" />
+    <state width="1259" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1605166688544" />
     <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604669331783" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1604669331783">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1259" height="276" key="GridCell.Tab.0.center" timestamp="1605166688544">
+      <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1604656456588" />
+    <state width="1259" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1605166688544" />
     <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604669331783" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1604669331783">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1259" height="276" key="GridCell.Tab.0.left" timestamp="1605166688544">
+      <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1604656456588" />
+    <state width="1259" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1605166688544" />
     <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604669331783" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1604669331783">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1259" height="276" key="GridCell.Tab.0.right" timestamp="1605166688544">
+      <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1604656456588" />
+    <state width="1259" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1605166688544" />
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604669331783" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1604656358015">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2070" y="156" width="998" height="708" key="SettingsEditor" timestamp="1605166649025">
+      <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1604656358015" />
+    <state x="2070" y="156" width="998" height="708" key="SettingsEditor/0.0.1920.1040/1920.0.1280.1024@1920.0.1280.1024" timestamp="1605166649025" />
   </component>
 </project>
