@@ -1,7 +1,17 @@
-l = list(input())
+l = input()
 c = []
-for i in range(len(l)):
-    for a in range(1, len(l)):
-        c.append(l[0:i:-1] + l[i:a:-1] + l[a:len(l) - 1:-1])
+a = 0
+w = ""
+for i in range(1, len(l)-1):
+    w1 = l[0:i]
+    a = a + 1
+    for a in range(i+1, len(l)):
+        w2 = l[i:a]
+        w3 = l[a:len(l)]
+        c.append([w1[::-1], w2[::-1], w3[::-1]])
 
-print(c)
+for q in range(len(c)):
+    c[q] = "".join(c[q])
+
+c = sorted(c, key=str.lower)
+print(c[0])
